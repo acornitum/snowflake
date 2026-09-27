@@ -24,4 +24,6 @@ Screenshot of schematic + PCB in KiCad:
 
 <img width="748" height="303" alt="image" src="https://github.com/user-attachments/assets/914cf29b-c905-4a22-8a09-27001422da99" />
 
-This repo will be updated with a 3d printable case and instructions for flashing later :D
+This repo will be updated with a 3d printable case later :D
+
+For uploading your own firmware, go to the readme in the firmware folder of this repo!
