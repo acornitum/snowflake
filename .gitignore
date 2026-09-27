@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# KiCad temporary / cache files
+*-backups/
+fp-info-cache
+*.lck
+~*.lck
+_autosave-*
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+\#auto_saved_files#
+
+# Panelization and fab output
+*_panel*
+production/
+fabrication-toolkit-options.json
