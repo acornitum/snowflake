@@ -1,4 +1,4 @@
-# Snowflake
+# Snowflake - one key macropad
 
 <img width="849" height="545" alt="image" src="https://github.com/user-attachments/assets/1c94f477-2876-4bae-8eab-7fdb83358d6a" />
 
@@ -6,7 +6,7 @@ Snowflake is a one key macropad! Solder on any mx-style switch and use it as a o
 
 Featuring: 
 
-- CH552e as the microcontroller
+- CH552E as the microcontroller
 - Neopixel on the bottom
 - All unused pins broken out
 - USB-C for power and data
